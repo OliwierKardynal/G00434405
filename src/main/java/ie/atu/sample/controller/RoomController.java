@@ -21,3 +21,4 @@ public class RoomController {
         return roomRepository.findAll();
     }
 }
+
